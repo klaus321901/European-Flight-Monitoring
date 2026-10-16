@@ -1,4 +1,4 @@
-Dflights.db
+flights.db
 *.db-journal
 .env
 __pycache__/
