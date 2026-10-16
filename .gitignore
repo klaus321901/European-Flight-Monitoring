@@ -1,0 +1,5 @@
+Dflights.db
+*.db-journal
+.env
+__pycache__/
+.pytest_cache/
